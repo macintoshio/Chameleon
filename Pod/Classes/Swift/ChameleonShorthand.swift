@@ -235,13 +235,13 @@ public func FlatWhite() -> UIColor {
 }
 
 public func FlatYellow() -> UIColor {
-	return UIColor.flatYellow 
+	return UIColor.flatYellow()
 }
 
 // MARK: - Chameleon - Dark Shades Shorthand
 
 public func FlatBlackDark() -> UIColor {
-	return UIColor.flatBlackDark 
+	return UIColor.flatBlackDark()
 }
 
 public func FlatBlueDark() -> UIColor {
